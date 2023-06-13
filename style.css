@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-size: 30px;
+  background-color: black !important;
+}
+
+h2 {
+  text-shadow: rgb(161, 0, 0) -2px 2px 0px;
+}
+
+button {
+  font-size: 18px !important;
+}
+
+.location {
+  min-height: 15dvh;
+  border-radius: 10px;
+  font-size: 24px;
+  background-color: #517528;
+  background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
